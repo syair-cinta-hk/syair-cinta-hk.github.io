@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://syair-cinta-hk.github.io/sitemap.xml
